@@ -20,6 +20,7 @@ public class Camarero {
         System.out.println("¿Quieres tomar algo?");
         if (scan.nextLine().equalsIgnoreCase("si")) {
             tomarAlgo = true;
+            System.out.println("Aquí tienes!");
         } else
             tomarAlgo = false;
 

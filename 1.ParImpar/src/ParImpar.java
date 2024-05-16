@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class App {
+public class ParImpar {
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);
         System.out.print("Introduce un numero: ");

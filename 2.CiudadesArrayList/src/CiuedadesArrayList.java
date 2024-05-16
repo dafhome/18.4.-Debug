@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class App {
+public class CiuedadesArrayList {
     public static void main(String[] args) throws Exception {
 
                 ArrayList<String> ciudades = new ArrayList<>();
